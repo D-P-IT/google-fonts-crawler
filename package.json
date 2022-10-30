@@ -1,0 +1,13 @@
+{
+  "name": "google-fonts-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:D-P-IT/google-fonts-crawler.git",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^19.2.0"
+  }
+}
